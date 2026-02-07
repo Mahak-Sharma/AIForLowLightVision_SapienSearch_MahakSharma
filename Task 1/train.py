@@ -18,9 +18,9 @@ import time
 # ==========================================
 # 1. CONFIG & PATHS
 # ==========================================
-INPUT_DIR = "./rclone-v1.73.0-linux-amd64/dataset/inputs"
-TARGET_DIR = "./rclone-v1.73.0-linux-amd64/dataset/targets"
-PRETRAINED_PATH = "./rclone-v1.73.0-linux-amd64/retinexWeight/LOL_v1.pth"
+INPUT_DIR = "./dataset/inputs"
+TARGET_DIR = "./dataset/targets"
+PRETRAINED_PATH = "LOL_v1.pth"
 SAVE_PATH = "best_finetune_model.pth"
 
 CONFIG = {
