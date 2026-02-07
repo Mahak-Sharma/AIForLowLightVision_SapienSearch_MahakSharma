@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+torch
+torchvision
+Pillow
+einops
+piq
