@@ -20,6 +20,7 @@ Develop a robust underwater image enhancement model to:
 #### 1). Create environment
 
 `python -m venv venv`
+
 `venv\Scripts\activate`
 
 #### 2). Install Dependencies
