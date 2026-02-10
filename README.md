@@ -52,7 +52,7 @@ Provided Image
 
 <img width="256" height="256" alt="img_0100_result" src="https://github.com/user-attachments/assets/071e2e30-5f0e-43d0-a846-af6aa77655de" />
 
-Enhanced Iamge
+Enhanced Image
 
 #### Evaluation Matrices Result
 
